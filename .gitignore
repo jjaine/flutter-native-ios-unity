@@ -22,6 +22,9 @@
 # Visual Studio cache directory
 .vs/
 
+# VSCode directory
+.vscode/
+
 # Gradle cache directory
 .gradle/
 
@@ -58,3 +61,19 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# Flutter
+.DS_Store
+.atom/
+.idea
+.packages
+.pub/
+build/
+ios/.generated/
+packages
+pubspec.lock
+.flutter-plugins
+.packages
+.pub/
+build/
+# If you're building an application, you may want to check-in your pubspec.lock
+pubspec.lock
